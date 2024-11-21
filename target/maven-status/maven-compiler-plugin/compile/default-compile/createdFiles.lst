@@ -1,0 +1,6 @@
+com\mycompany\trust2\action\HelloWordAction.class
+com\mycompany\trust2\JakartaRestConfiguration.class
+com\mycompany\trust2\model\Person.class
+com\mycompany\trust2\model\MessageStore.class
+com\mycompany\trust2\resources\JakartaEE8Resource.class
+com\mycompany\trust2\action\Register.class
